@@ -1,0 +1,3 @@
+[submodule "cognitive-services-speech-sdk"]
+	path = cognitive-services-speech-sdk
+	url = https://github.com/Azure-Samples/cognitive-services-speech-sdk.git
